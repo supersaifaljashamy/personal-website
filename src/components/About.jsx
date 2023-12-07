@@ -47,10 +47,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in JavaScript and Python, 
-        and exposure to frameworks like React, Node.js, and Django. I'm a quick learner and 
-        collaborate closely with clients to create efficient, scalable, and user-friendly solutions 
-        that solve real-world problems.
+     I'm a proficient software developer with knowledge of Python and JavaScript, as well as exposure to Django, Node.js, and React. 
+     I work directly with clients to develop effective, scalable, and user-friendly solutions that address challenges in the real world. 
+     I pick things up quickly.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
